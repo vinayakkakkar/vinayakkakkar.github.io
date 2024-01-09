@@ -142,20 +142,36 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
-      ]
+      "name": "Gym",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Chess",
+      "icon":"fa-solid fa-tag"
+    },
+    {
+      "name": "Swimming",
+      "icon":"fa-solid fa-tag"
     }
   ],
   "projects": [
     {
       "name": "Book Store",
-      "summary": "",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+      "technologies": [
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "name": "Notes Backend",
+      "technologies":[
+        "Node.js,Express.js,MongoDB,JWT"
+      ]
+    },
+    {
+      "name": "PDF-Compare",
+      "technologies":[
+        "Node.js,Express",
+        "React"
       ]
     }
   ]
