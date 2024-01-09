@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://vinayakkakkar.github.io/sitemap.xml
