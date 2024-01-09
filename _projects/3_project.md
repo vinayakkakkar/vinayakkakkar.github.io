@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Chess game
+description: The Chess Game is a simple implementation in HTML, CSS, and JavaScript with a graphical interface, supporting standard chess rules and automatic handling of game logic.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/vinayakkakkar/Chess
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

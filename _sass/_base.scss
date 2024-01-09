@@ -477,7 +477,7 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 3.5rem;
   }
 }
 
@@ -485,6 +485,7 @@ footer.sticky-bottom {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 1rem;
+  width: 100%;
 
   ul {
     justify-content: center;

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Paint App
+description: The Paint App with Line Drawing is a user-friendly HTML-based application enabling line and circle drawing on a canvas, with features like shape interaction, line deletion, and canvas clearing.
 img: assets/img/1.jpg
+redirect: https://github.com/vinayakkakkar/Paint_app
 importance: 3
 category: fun
 ---

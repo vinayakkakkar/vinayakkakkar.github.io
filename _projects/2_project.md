@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Notes Backend
+description: It is a secure and scalable Node.js application utilizing Express.js, MongoDB, and JWT for user authentication, offering CRUD operations on notes, sharing functionality, and keyword-based note searching.
 img: assets/img/3.jpg
 importance: 2
+redirect: https://github.com/vinayakkakkar/notes-backend
 category: work
 giscus_comments: true
 ---

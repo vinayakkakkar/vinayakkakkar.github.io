@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Tic-Tac-Toe
+description: A responsive web-based Tic-Tac-Toe game featuring player vs. player or player vs. bot modes, with alerts for game over scenarios.
+img: assets/img/99.jpg
+redirect: https://github.com/vinayakkakkar/tic-tac-toe
 importance: 4
 category: fun
 ---
