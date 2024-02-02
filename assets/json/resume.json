@@ -22,21 +22,22 @@
       "startDate": "06-2023",
       "endDate": "Now",
       "highlights": [
-        "Developed resilient Node.js APIs for effective user communication.",
-        "Designed a user-friendly HTML/CSS and React panel, streamlining user data storage and retrieval.",
-        "Implemented a time-tracking feature in Node.js for proactive performance optimization, alerting admins to load time issues."
-      ]
-    },
-    {
-      "name": "FREELANCE",
-      "position": "Backend Developer",
-      "startDate": "03-23",
-      "endDate": "05-2023",
-      "highlights": [
         "Crafted robust Node.js APIs for efficient CRUD functionality in job management.",
         "Engineered automatic job reassignment for enhanced recruitment efficiency.",
         "Implemented Node.js OTP authentication, fortifying system security.",
         "Developed advanced job filtering in Node.js for a personalized job search experience."
+      ]
+    },
+    {
+      "name": "FREELANCE",
+      "position": "Developer",
+      "startDate": "03-23",
+      "endDate": "05-2023",
+      "highlights": [
+        "Developed resilient Node.js APIs for effective user communication.",
+        "Designed a user-friendly HTML/CSS and React panel, streamlining user data storage and retrieval.",
+        "Implemented a time-tracking feature in Node.js for proactive performance optimization, alerting admins to load time issues.",
+        "Applied Test-Driven Development methodologies to ensure that changes did not introduce new issues"
       ]
     },
     {
